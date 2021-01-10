@@ -17,7 +17,7 @@ body {
 }
 
 main {
-    background-image: url("../../images/bg-pattern-top-mobile.svg"), url("../../images/bg-pattern-bottom-mobile.svg");
+    background-image: url("./images/bg-pattern-top-mobile.svg"), url("./images/bg-pattern-bottom-mobile.svg");
     background-repeat: no-repeat;
     background-position: top left, bottom right;
 }
@@ -215,7 +215,7 @@ section {
 
 
     main {
-        background-image: url("../../images/bg-pattern-top-desktop.svg"), url("../../images/bg-pattern-bottom-desktop.svg");
+        background-image: url("./images/bg-pattern-top-desktop.svg"), url("./images/bg-pattern-bottom-desktop.svg");
     }
 
     .first_row {
