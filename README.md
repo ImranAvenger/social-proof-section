@@ -1,6 +1,6 @@
 # Frontend Mentor - Social proof section
 
-![Design preview for the Social proof section coding challenge](https://github.com/ImranAvenger/social-proof-section/blob/master/images/desktop-design.jpg?raw=true)
+![Design preview for the Social proof section coding challenge](https://github.com/ImranAvenger/social-proof-section/blob/main/images/desktop-design.jpg)
 
 ## Welcome! 👋
 
